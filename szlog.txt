@@ -1,0 +1,3 @@
+1.检查Jekyll配置：确保你的Jekyll配置文件（_config.yml）中包含了启用LiveReload的配置。对于Jekyll，你通常不需要在配置文件中显式启用LiveReload，因为--livereload命令行参数会处理这一切。但是，确保你没有在配置文件中禁用它。
+
+2.启动Jekyll服务器：使用--livereload参数启动Jekyll服务器。
