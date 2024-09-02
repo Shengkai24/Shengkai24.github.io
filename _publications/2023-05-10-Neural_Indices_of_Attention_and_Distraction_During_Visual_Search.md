@@ -5,7 +5,7 @@ permalink: /publication/2023-05-10-Neural_Indices_of_Attention_and_Distraction_D
 excerpt: 'The study investigated neurophysiological indices of target identification and distraction during visual search, finding that executive neural systems are involved in filtering distracting information, with different ERP components (P2, N2, P3) indicating distinct stages of visual search performance involving frontal and parietal brain regions.'
 date: 2023-05-10
 venue: 'ProQuest'
-slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
+slidesurl: 'http://Shengkai24.github.io/files/Neural_Indices_slide.pdf'
 paperurl: 'http://Shengkai24.github.io/files/Neural_Indices_of_Attention_and_Distraction_During_Visual_Search.pdf'
 citation: 'Zhao, S. (2023). Neural Indices of Attention and Distraction During Visual Search (Master&apos;s thesis, State University of New York at Buffalo).'
 ---
