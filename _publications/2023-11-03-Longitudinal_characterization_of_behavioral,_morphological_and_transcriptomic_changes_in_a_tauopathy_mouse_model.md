@@ -5,7 +5,7 @@ permalink: /publication/2023-11-03-Longitudinal_characterization_of_behavioral,_
 excerpt: 'P301S tauopathy mouse model exhibits early cognitive and social deficits, dendrite arborization reduction, and time-dependent synaptic gene expression changes, suggesting progressive neuronal dysfunction leading to behavioral symptoms in tauopathies.'
 date: 2023-11-03
 venue: 'Aging (Albany NY)'
-slidesurl: 'http://Shengkai24.github.io/files/Longitudinal_characterization_slide.jpg'
+slidesurl: 'http://Shengkai24.github.io/files/Longitudinal_characterization_slide.pdf'
 paperurl: 'http://Shengkai24.github.io/files/Longitudinal_characterization_of_behavioral,_morphological_and_transcriptomic_changes_in_a_tauopathy_mouse_model.pdf'
 citation: 'Cao, Q., Kumar, M., Frazier, A., Williams, J. B., Zhao, S., &amp; Yan, Z. (2023). Longitudinal characterization of behavioral, morphological and transcriptomic changes in a tauopathy mouse model. Aging (Albany NY), 15(21), 11697.'
 ---
