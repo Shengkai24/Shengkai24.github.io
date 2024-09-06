@@ -12,12 +12,12 @@ Tested the 5XFAD and Tau strains mice with Barnes maze test, novel object recogn
 ![BarnesMaze](http://Shengkai24.github.io/images/BarnesMaze.jpg)
 ![NovelObject](http://Shengkai24.github.io/images/NovelObjectRecognitionTest.png)
 
-<div style="display: flex; flex-direction: row; justify-content: space-between; align-items: center; flex-wrap: wrap; width: 100%; margin: 0 auto;">  
-    <div style="flex: 1; margin: 0 10px;">  
-        <img src="https://shengkai24.github.io/images/BarnesMaze.jpg" alt="BarnesMaze" style="max-width: 100%; height: auto;">  
+<div style="display: flex; flex-wrap: wrap; justify-content: space-between; margin: 0 auto;">  
+    <div style="flex-basis: 48%; margin: 0 1%; text-align: center;">  
+        <img src="https://shengkai24.github.io/images/BarnesMaze.jpg" alt="BarnesMaze" style="width: 100%; height: auto;">  
     </div>  
-    <div style="flex: 1; margin: 0 10px;">  
-        <img src="https://shengkai24.github.io/images/NovelObjectRecognitionTest.png" alt="NovelObject" style="max-width: 100%; height: auto;">  
+    <div style="flex-basis: 48%; margin: 0 1%; text-align: center;">  
+        <img src="https://shengkai24.github.io/images/NovelObjectRecognitionTest.png" alt="NovelObject" style="width: 100%; height: auto;">  
     </div>  
 </div>
 
