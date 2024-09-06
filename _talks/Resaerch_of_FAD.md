@@ -12,9 +12,9 @@ Tested the 5XFAD and Tau strains mice with Barnes maze test, novel object recogn
 ![BarnesMaze](http://Shengkai24.github.io/images/BarnesMaze.jpg)
 ![NovelObject](http://Shengkai24.github.io/images/NovelObjectRecognitionTest.png)
 
-<div style="display: flex; justify-content: space-between;">  
-    <img src="http://Shengkai24.github.io/images/BarnesMaze.jpg" alt="BarnesMaze" style="max-width: 49%;">  
-    <img src="http://Shengkai24.github.io/images/NovelObjectRecognitionTest.png" alt="NovelObject" style="max-width: 49%;">  
-</div>  
+<div style="display: flex; justify-content: space-between; align-items: center; flex-wrap: nowrap; width: 100%;">    
+    <img src="http://Shengkai24.github.io/images/BarnesMaze.jpg" alt="BarnesMaze" style="max-width: 49%; height: auto;">    
+    <img src="http://Shengkai24.github.io/images/NovelObjectRecognitionTest.png" alt="NovelObject" style="max-width: 49%; height: auto;">    
+</div>
 
 Related paper: Cao Q, Kumar M, Frazier A, Williams JB, Zhao S, Yan Z. Longitudinal characterization of behavioral, morphological and transcriptomic changes in a tauopathy mouse model. Aging (Albany NY). 2023 Nov 3.
