@@ -10,13 +10,7 @@ location: "Bufflao, New York"
 
 Tested the 5XFAD and Tau strains mice with Barnes maze test, novel object recognition test and social approach test (with ANY-maze), and analyzed the data with GraphPad Prism 7 and Origin 2021. Slice the mice brain for immunohistochemical test. Also learned some skills about Western Blot.
 
-<div style="display: flex; flex-wrap: wrap; justify-content: space-between; margin: 0 auto;">  
-    <div style="flex-basis: 48%; margin: 0 1%; text-align: center;">  
-        <img src="https://shengkai24.github.io/images/BarnesMaze.jpg" alt="BarnesMaze" style="width: 100%; height: auto;">  
-    </div>  
-    <div style="flex-basis: 48%; margin: 0 1%; text-align: center;">  
-        <img src="https://shengkai24.github.io/images/NovelObjectRecognitionTest.png" alt="NovelObject" style="width: 100%; height: auto;">  
-    </div>  
-</div>
+![BarnesMaze](http://Shengkai24.github.io/images/BarnesMaze.jpg)
+![NovelObject](http://Shengkai24.github.io/images/NovelObjectRecognitionTest.png)
 
 Related paper: Cao Q, Kumar M, Frazier A, Williams JB, Zhao S, Yan Z. Longitudinal characterization of behavioral, morphological and transcriptomic changes in a tauopathy mouse model. Aging (Albany NY). 2023 Nov 3.
