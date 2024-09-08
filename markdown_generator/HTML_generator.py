@@ -2,7 +2,7 @@ import os
 import pandas as pd
 
 # 打开文件并读取内容  
-with open(r'D:\Desktop\Resume\Personal_page\_talks\Resaerch_of_FAD.md', 'r', encoding='utf-8') as file:  
+with open(r'D:\Desktop\Resume\Personal_page\_talks\2021_09_Research_of_FA.md', 'r', encoding='utf-8') as file:  
     content = file.read()  
   
 # 打印文件内容  
