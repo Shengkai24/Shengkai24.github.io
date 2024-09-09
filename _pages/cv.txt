@@ -1,0 +1,7 @@
+cv.md部分删除了下面代码
+
+Teaching
+======
+  <ul>{% for post in site.teaching reversed %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>

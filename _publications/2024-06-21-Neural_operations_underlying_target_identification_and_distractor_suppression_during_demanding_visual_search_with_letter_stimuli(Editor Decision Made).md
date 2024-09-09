@@ -1,0 +1,12 @@
+---
+title: "Neural operations underlying target identification and distractor suppression during demanding visual search with letter stimuli(Reviewing)"
+collection: publications
+permalink: /publication/2024-06-21-Neural_operations_underlying_target_identification_and_distractor_suppression_during_demanding_visual_search_with_letter_stimuli(Editor Decision Made)
+excerpt: 'The study found that during visual search, the brain filters distracting non-target stimuli within 200 msec (P2 effect), resolves stimulus conflict within 200-300 msec (N2 effect), and engages in executive control processes at approximately 300-500 msec post-stimulus (P3 effect).'
+date: 2024-06-21
+venue: 'N/A'
+slidesurl: 'http://Shengkai24.github.io/files/Neural_operations_paper.pdf'
+paperurl: 'http://Shengkai24.github.io/files/Neural_operations_slide.pdf'
+citation: 'N/A'
+---
+The present study investigated the neural operations associated with the manipulation of target frequency/familiarity and non-target interference during visual search. Forty healthy participants completed a visual search task in which they had to determine if a target letter F&quot; was right-side up (2/3 of all trials, frequent target) or flipped upside down (1/3 of all trials, infrequent/unfamiliar target). Targets were embedded in a letter array that included either low or high interference distractors, based on the similarity of the non-target features to the target. Event-related potential (ERP) indices of brain function were obtained. There was enhancement of amplitude at frontal scalp electrodes for the P2 and P3 ERP components during trials with high compared to low interference distractors. N2 component amplitude was enhanced during trials with infrequent/unfamiliar targets and when high interference distractors were present, compared to other trial types. The findings indicate that the filtering of distracting non-target stimuli is engaged within 200 msec after the onset stimuli (P2 effect). Resolution of stimulus conflict that are induced by either the target and non-target stimuli are engaged within 200-300 msec (N2 effect), and second pass executive control process were engaged at approximately 300-500 msec post-stimulus (P3 effect).

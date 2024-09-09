@@ -14,8 +14,12 @@ To investigate the impact of electromagnetic fields on mice, I established six g
 
 During the experiment, I conducted experimental treatments and trained the mice using the Morris water maze, a standard test for assessing spatial learning and memory in rodents. Following the completion of the experimental treatments, I performed a significance test and analyzed the statistical data to draw conclusions about the effects of electromagnetic fields on the cognitive abilities of mice.
 
-<img src="http://Shengkai24.github.io/images/EMF1.jpg" width="50%" style="display:inline-block; vertical-align:top; margin-left:-4px;">
-<img src="http://Shengkai24.github.io/images/EMF2.jpg" width="50%" style="display:inline-block; vertical-align:top; margin-right:-4px;">
-<img src="http://Shengkai24.github.io/images/EMF3.jpg" width="50%" style="display:inline-block; vertical-align:top; margin-right:-4px;">
+<div style="display: flex;">
+  <img src="http://Shengkai24.github.io/images/EMF1.jpg" style="max-width: 30%; height: auto; margin-left: -4px;">
+  <div style="display: flex; flex-direction: column; max-width: 50%;">
+    <img src="http://Shengkai24.github.io/images/EMF2.jpg" style="max-width: 100%; height: auto; margin-right: -4px;">
+    <img src="http://Shengkai24.github.io/images/EMF3.jpg" style="max-width: 100%; height: auto; margin-right: -4px;">
+  </div>
+</div>
 
 For more information: ['TEffects of VITAMIN B on Spatial Memory and Mortality in Mice Under Power Frequency Electromagnetic Field. (Bachelor’s thesis). 2020'](https://shengkai24.github.io/publication/Effects_of_VITAMIN_B_on_Spatial_Memory_and_Mortality_in_Mice_Under_Power_Frequency_Electromagnetic_Field.pdf)
