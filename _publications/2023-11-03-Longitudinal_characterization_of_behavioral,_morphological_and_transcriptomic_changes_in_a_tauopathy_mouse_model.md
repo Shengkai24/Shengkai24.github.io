@@ -2,7 +2,7 @@
 title: "Longitudinal characterization of behavioral, morphological and transcriptomic changes in a tauopathy mouse model"
 collection: publications
 permalink: /publication/2023-11-03-Longitudinal_characterization_of_behavioral,_morphological_and_transcriptomic_changes_in_a_tauopathy_mouse_model
-excerpt: 'P301S tauopathy mouse model exhibits early cognitive and social deficits, dendrite arborization reduction, and time-dependent synaptic gene expression changes, suggesting progressive neuronal dysfunction leading to behavioral symptoms in tauopathies.'
+excerpt: 'The P301S tauopathy mouse model exhibits early cognitive and social deficits, dendrite arborization reduction, and time-dependent synaptic gene expression changes, suggesting progressive neuronal dysfunction leading to behavioral symptoms in tauopathies.'
 date: 2023-11-03
 venue: 'Aging (Albany NY)'
 slidesurl: 'http://Shengkai24.github.io/files/Longitudinal_characterization_slide.pdf'

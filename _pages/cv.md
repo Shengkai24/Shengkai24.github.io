@@ -18,8 +18,9 @@ Working experience
 ======
 * 08/2023-04/2024: Research Assistant
   * University of California, Los Angeles
-  * Duties includes: 
-  Brain organoids culture and experiment
+  * Duties include: 
+  Culturing brain organoids
+  Conducting experiments
   Lab Management and Resource Coordination
   * Supervisor: 
    Dr. Jessica Rexach, Assistant Professor, University of California, Los Angeles
@@ -35,6 +36,10 @@ Skills
 * Computer Skills
   * Computer languages: Python, Linux, R, Markdown, VS code; Statistical and Drawing: SPSS, GraphPad Prism, OriginLab, Photoshop; EEG-ERP recording mapping: Net Station; Animal experiment software: ANY-maze; Others: Endnote, Microsoft office, WPS, etc.
 
+<p>&nbsp;</p> <!-- 空行 --> 
+
+* Aditional Skills
+  * Have Chinese driver's license and 2 years of driving experience, proficient in literature and Internet related information.
 
 Publications
 ======

@@ -2,7 +2,7 @@
 title: "Neural operations underlying target identification and distractor suppression during demanding visual search with letter stimuli(Reviewing)"
 collection: publications
 permalink: /publication/2024-06-21-Neural_operations_underlying_target_identification_and_distractor_suppression_during_demanding_visual_search_with_letter_stimuli(Editor Decision Made)
-excerpt: 'The study found that during visual search, the brain filters distracting non-target stimuli within 200 msec (P2 effect), resolves stimulus conflict within 200-300 msec (N2 effect), and engages in executive control processes at approximately 300-500 msec post-stimulus (P3 effect).'
+excerpt: 'This study found that during visual search, the brain filters distracting non-target stimuli within 200 msec (P2 effect), resolves stimulus conflict within 200-300 msec (N2 effect), and engages in executive control processes at approximately 300-500 msec post-stimulus (P3 effect).'
 date: 2024-06-21
 venue: 'N/A'
 slidesurl: 'http://Shengkai24.github.io/files/Neural_operations_paper.pdf'
