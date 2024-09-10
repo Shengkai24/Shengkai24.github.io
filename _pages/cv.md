@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: " "
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -11,35 +11,30 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014 
-* B.S. in GitHub, GitHub University, 2012
+* M.S. in Neuroscience, Universtiy at Buffalo, 2023 
+* B.S. in Bioscience, Lanzhou University, 2020
 
-Work experience
+Working experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* 08/2023-04/2024: Research Assistant
+  * University of California, Los Angeles
+  * Duties includes: 
+  Brain organoids culture and experiment
+  Lab Management and Resource Coordination
+  * Supervisor: 
+   Dr. Jessica Rexach, Assistant Professor, University of California, Los Angeles
+   Dr. Ranmal Samarasinghe, Assistant Professor, University of California, Los Angeles
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Laboratory Skills
+  * EEG recording and analysis (ERP and EEG sources), local field potential recording, serial procedures of reproduction and culture of brain organoid, animal surgery (stereotaxic mapping of rat brain, thinning and mild embolization of mouse skull, measurement of nerve potential and arterial blood pressure, establishment of rat renal hypertension model, in vivo separation of animal tissues and organs, surgical sutures, intravenous injection, etc.), Tissue section, mouse behavior experiment, Western Blot, BrdU staining, immunohistochemistry, two-dimensional gel electrophoresis, SDS-page gel preparation and operation, PCR, cell counting, animal cell culture, plant tissue culture, etc.
+
+<p>&nbsp;</p> <!-- 空行 --> 
+
+* Computer Skills
+  * Computer languages: Python, Linux, R, Markdown, VS code; Statistical and Drawing: SPSS, GraphPad Prism, OriginLab, Photoshop; EEG-ERP recording mapping: Net Station; Animal experiment software: ANY-maze; Others: Endnote, Microsoft office, WPS, etc.
+
 
 Publications
 ======
