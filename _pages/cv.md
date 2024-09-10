@@ -34,7 +34,7 @@ Skills
 * Computer Skills
   * Computer languages: Python, Linux, R, Markdown, VS code; Statistical and Drawing: SPSS, GraphPad Prism, OriginLab, Photoshop; EEG-ERP recording mapping: Net Station; Animal experiment software: ANY-maze; Others: Endnote, Microsoft office, WPS, etc.
 
-* Aditional Skills
+* Additional Skills
   * Have Chinese driver's license and 2 years of driving experience, proficient in literature and Internet related information.
 
 Publications
