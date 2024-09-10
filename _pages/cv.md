@@ -31,12 +31,8 @@ Skills
 * Laboratory Skills
   * EEG recording and analysis (ERP and EEG sources), local field potential recording, serial procedures of reproduction and culture of brain organoid, animal surgery (stereotaxic mapping of rat brain, thinning and mild embolization of mouse skull, measurement of nerve potential and arterial blood pressure, establishment of rat renal hypertension model, in vivo separation of animal tissues and organs, surgical sutures, intravenous injection, etc.), Tissue section, mouse behavior experiment, Western Blot, BrdU staining, immunohistochemistry, two-dimensional gel electrophoresis, SDS-page gel preparation and operation, PCR, cell counting, animal cell culture, plant tissue culture, etc.
 
-<p>&nbsp;</p> <!-- 空行 --> 
-
 * Computer Skills
   * Computer languages: Python, Linux, R, Markdown, VS code; Statistical and Drawing: SPSS, GraphPad Prism, OriginLab, Photoshop; EEG-ERP recording mapping: Net Station; Animal experiment software: ANY-maze; Others: Endnote, Microsoft office, WPS, etc.
-
-<p>&nbsp;</p> <!-- 空行 --> 
 
 * Aditional Skills
   * Have Chinese driver's license and 2 years of driving experience, proficient in literature and Internet related information.
