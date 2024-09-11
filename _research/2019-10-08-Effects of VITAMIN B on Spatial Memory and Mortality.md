@@ -1,8 +1,8 @@
 ---
 title: "Effects of VITAMIN B on Spatial Memory and Mortality in Mice Under Power Frequency Electromagnetic Field (Bachelor’s thesis)"
-collection: talks
+collection: research
 type: "Undergraduate"
-permalink: /talks/2019-10-08-Effects of VITAMIN B on Spatial Memory and Mortality
+permalink: /research/2019-10-08-Effects of VITAMIN B on Spatial Memory and Mortality
 venue: "Lanzhou Universtiy"
 date: 2019-10-08
 location: "Lanzhou, Gansu"

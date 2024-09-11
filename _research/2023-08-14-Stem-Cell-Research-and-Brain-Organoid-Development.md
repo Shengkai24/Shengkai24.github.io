@@ -1,8 +1,8 @@
 ---
 title: "Stem Cell Research and Brain Organoid Development"
-collection: talks
+collection: research
 type: "Research assistant"
-permalink: /talks/2023-08-14-Brain-organoids-culture-and-experiments
+permalink: /research/2023-08-14-Brain-organoids-culture-and-experiments
 venue: "University of California，Los Angeles"
 date: 2023-08-14
 location: "Los Angeles, California"

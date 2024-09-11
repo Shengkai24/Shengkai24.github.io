@@ -1,8 +1,8 @@
 ---
 title: "Studying the neural mechanisms of cognition using EEG"
-collection: talks
+collection: research
 type: "Master student"
-permalink: /talks/2022-01-18-Cognitive-and-Behavioral-Neurosciences-Lab
+permalink: /research/2022-01-18-Cognitive-and-Behavioral-Neurosciences-Lab
 venue: "University at Buffalo"
 date: 2022-01-18
 location: "Bufflao, New York"

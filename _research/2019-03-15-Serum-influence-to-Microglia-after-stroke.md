@@ -1,8 +1,8 @@
 ---
 title: "Study on the Effect of Serum on Microglia after Stroke"
-collection: talks
+collection: research
 type: "Undergraduate"
-permalink: /talks/2019-03-15-Serum-influence-to-Microglia-after-stroke
+permalink: /research/2019-03-15-Serum-influence-to-Microglia-after-stroke
 venue: "Lanzhou Universtiy"
 date: 2019-03-15
 location: "Lanzhou, Gansu"

@@ -1,8 +1,8 @@
 ---
 title: "Study of Tau and FAD Mice Behavior Test with Barnes Maze, Novel Object Task, and Social Preference Task"
-collection: talks
+collection: research
 type: "Master student"
-permalink: /talks/2021-09-01-Resaerch-of-FAD
+permalink: /research/2021-09-01-Resaerch-of-FAD
 venue: "University at Buffalo"
 date: 2021-09-01
 location: "Bufflao, New York"
