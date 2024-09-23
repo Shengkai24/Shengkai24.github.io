@@ -1,0 +1,2 @@
+修改footer.html隐藏底部版权信息。Personal_page\_includes\footer.html
+注释掉custom.html的<!-- a href="/sitemap/">Sitemap</a-->隐藏sitemap。Personal_page\_includes\footer\custom.html
